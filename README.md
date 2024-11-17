@@ -1,2 +1,2 @@
 # Proyecto-grupal-
-Prueba de repositorio para Git Hub
+Crear un repositorio con el fin de familiarizarse con la plataforma Git Hub para futuros proyectos.
